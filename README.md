@@ -29,4 +29,3 @@ On the visual side, the CSS does a lot of heavy lifting. From centering elements
 Overall, this project is a fantastic representation of a young developer building his brand. It reflects creativity, technical knowledge, and ambition, all wrapped in a visually appealing and user-friendly layout. It’s more than just a webpage—it’s a personal statement, a digital introduction, and a gateway for opportunities.
 
 ![Image](https://github.com/user-attachments/assets/405a6c1f-380d-4eb1-9b3c-0d4f19764b27)
-![Image](https://github.com/user-attachments/assets/405a6c1f-380d-4eb1-9b3c-0d4f19764b27)
